@@ -1,19 +1,22 @@
-# TRUYEN Cédric | My Dev Landing Page
+# Exercice HTML 01 - My first landing page
 
-Il s'agit d'un repo pour réaliser le premier exercice lié à l'html et au CSS, dans le cadre de la formation "Développeur Web et Applications Mobile" de BeCode Bruxelles.
+## Objectif de l'exercice
+L'objectif de l'exercice est de créer la première landing page
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+## Travail effectué
+J'ai donc effectué les tâches suivantes :
+1. Création du repos ceeeed1985.github.io
+2. Clone du repos de **flexDinesh** et importer les données html et css dans mon repo
+3. Adapter le fichier avec mes informations personnelles
+4. Push l'ensemble
+5. Réaliser le readme
 
-L'objectif principal de cet exercice est d'avoir une page de présentation avec mes activités en ligne, ainsi que les liens vers les réseaux sociaux et plateformes que j'utilise.
+## Les difficultés rencontrées
+1. Résolue : trouver sur github l'endroit où se trouve ma landing page
 
-## Themes
+## Les ressources disponibles
+1. [Article](https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk)
+2. [Instructions](https://github.com/flexdinesh/dev-landing-page#github-pages)
 
-Dev Landing Page comes in 9 **material themes**.
-
-![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
-
-If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
-
-## License
-
+  
 BeCode © Cédric Truyen
